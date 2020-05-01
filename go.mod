@@ -1,4 +1,4 @@
-module github/akash1729/golang-dependency-injection
+module github.com/akash1729/golang-dependency-injection
 
 go 1.13
 
