@@ -8,8 +8,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github/akash1729/golang-dependency-injection/controller"
-	"github/akash1729/golang-dependency-injection/model"
+	"github.com/akash1729/golang-dependency-injection/controller"
+	"github.com/akash1729/golang-dependency-injection/model"
 )
 
 func main() {

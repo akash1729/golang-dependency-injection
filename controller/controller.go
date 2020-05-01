@@ -2,8 +2,9 @@ package controller
 
 import (
 	"fmt"
-	"github/akash1729/golang-dependency-injection/model"
 	"net/http"
+
+	"github.com/akash1729/golang-dependency-injection/model"
 )
 
 // Env : Holds env vaiables for our app
